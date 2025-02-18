@@ -35,7 +35,7 @@ Akses aplikasi di [http://localhost:5173](http://localhost:5173)
 ## 🚢 Deployment
 
 Aplikasi ini telah di-deploy menggunakan Vercel dan dapat diakses di:
-[https://pathfinding-simulator.vercel.app](https://pathfinding-simulator.vercel.app)
+[https://pathfinding-simulator-delta.vercel.app/](https://pathfinding-simulator-delta.vercel.app/)
 
 ## 🧪 Cara Penggunaan
 
@@ -73,6 +73,6 @@ MIT License.
 
 🔗 **GitHub:** [https://github.com/zanuartri/pathfinding-simulator](https://github.com/zanuartri/pathfinding-simulator)
 
-🚀 **Live Demo:** [https://pathfinding-simulator.vercel.app](https://pathfinding-simulator.vercel.app)
+🚀 **Live Demo:** [https://pathfinding-simulator-delta.vercel.app/](https://pathfinding-simulator-delta.vercel.app/)
 
 Selamat bereksperimen dan mengeksplorasi dunia pathfinding! 🧠⚙️
